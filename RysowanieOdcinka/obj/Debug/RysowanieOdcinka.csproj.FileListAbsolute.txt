@@ -1,0 +1,30 @@
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.exe.config
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.exe
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.pdb
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csprojAssemblyReference.cache
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.Form1.resources
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.Properties.Resources.resources
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csproj.GenerateResource.cache
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csproj.CoreCompileInputs.cache
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.exe
+C:\Users\sebos\source\repos\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.pdb
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.exe.config
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.exe
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.pdb
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csprojAssemblyReference.cache
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.Form1.resources
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.Properties.Resources.resources
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csproj.GenerateResource.cache
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csproj.CoreCompileInputs.cache
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.exe
+C:\Users\sebos\OneDrive\Pulpit\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.pdb
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.exe.config
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.exe
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\bin\Debug\RysowanieOdcinka.pdb
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csprojAssemblyReference.cache
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.Form1.resources
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.Properties.Resources.resources
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csproj.GenerateResource.cache
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.csproj.CoreCompileInputs.cache
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.exe
+D:\Informatyka\VI semestr\Grafika komputerowa i komunikacja z komputerem\Projekty\Projekt 1\Projekt1\RysowanieOdcinka\obj\Debug\RysowanieOdcinka.pdb
