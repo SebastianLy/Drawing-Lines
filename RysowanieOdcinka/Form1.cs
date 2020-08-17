@@ -108,6 +108,8 @@ namespace RysowanieOdcinka
             {
                 if (x0 < bitmap.Width && x0 > 0 && y0 > 0 && y0 < bitmap.Height)
                 {
+                    // x0 , y0 - współrzędne początku odcinka
+                    // x1 , y1 - współrzędne końca odcinka
                     int dx = Math.Abs(x1 - x0), sx = x0 < x1 ? 1 : -1;
                     int dy = Math.Abs(y1 - y0), sy = y0 < y1 ? 1 : -1;
                     double vy = 32.768 + 65.536 * y0;
@@ -118,6 +120,7 @@ namespace RysowanieOdcinka
                     ix = x0 < x1 ? ix : -ix;
                     int x = x0;
                     int y = y0;
+                    // oś wiodąca OY
                     if (dy > dx)
                     {
                         while (y != y1)
@@ -127,6 +130,7 @@ namespace RysowanieOdcinka
                             y += sy;
                         }
                     }
+                    // oś wiodąca OX
                     else
                     {
                         while (x != x1)
@@ -147,13 +151,17 @@ namespace RysowanieOdcinka
             {
                 if (x0 < bitmap.Width && x0 > 0 && y0 > 0 && y0 < bitmap.Height)
                 {
+                    // x0 , y0 - współrzędne początku odcinka
+                    // x1 , y1 - współrzędne końca odcinka
                     int d, dx, dy, incrNE, incrE, xi, yi;
                     int x = x0, y = y0;
+                    // ustalenie kierunku rysowania
                     dx = x0 < x1 ? x1 - x0 : x0 - x1;
                     dy = y0 < y1 ? y1 - y0 : y0 - y1;
                     xi = x0 < x1 ? 1 : -1;
                     yi = y0 < y1 ? 1 : -1;
                     bitmap.SetPixel(x, y, color);
+                    // oś wiodąca OX
                     if (dx > dy)
                     {
                         incrNE = (dy - dx) * 2;
@@ -175,6 +183,7 @@ namespace RysowanieOdcinka
                             bitmap.SetPixel(x, y, color);
                         }
                     }
+                    // oś wiodąca OY
                     else
                     {
                         incrNE = (dx - dy) * 2;
