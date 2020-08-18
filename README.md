@@ -1,8 +1,8 @@
 # Drawing-Lines
 
 ## Technologie
-* **C#**,
-* **.NET Winforms**.
+* **C# 8.0**,
+* **.NET WinForms**.
 
 ## Informacje
 Program pozwala na rysowanie linii na dwa sposoby: za pomocą myszki lub podając współrzędne początku i końca linii. Przy rysowaniu linii mamy do wyboru dwa algorytmy: 
